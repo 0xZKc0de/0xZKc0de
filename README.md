@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/profile-header.svg" alt="Header Image" width="100%"/>
+  <br>
+  > El Haddad Mohamed
+</h1>
 
-<!--
-**0xZKc0de/0xZKc0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em><samp>Diving deep into the ones and zeros so you don't have to.</samp></em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/el-haddad-mohamed-959385254/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/0xZKc0de"><img src="https://img.shields.io/github/followers/0xZKc0de?label=Follow&style=for-the-badge&logo=github"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=0xZKc0de&label=Profile%20Views&color=0e75b6&style=flat-square" alt="0xZKc0de Profile Views" /> 
+</p>
+
+---
+
+<p>
+  <samp>
+    - I'm a CompSci student who enjoys building robust backend stuff with Java and Spring Boot, focusing on best practices.
+    - Most of my time is spent grinding problems on LeetCode and Codeforces. I mainly use C++, but I'll pivot to Java or Python depending on the task.
+    - On the side, I like to dive into the low-level security world, mostly focusing on PWN and other binary exploitation stuff.
+    - Feel free to reach out! I'm always open to talking about tech, code, or interesting challenges.
+  </samp>
+</p>
+
+---
+
+### <samp>🛠️ Tech Stack</samp>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=C&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/-C++-333333?style=flat-square&logo=C%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-333333?style=flat-square&logo=Go&logoColor=00ADD8" />
+  <img src="https://img="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/-Spring%20Boot-333333?style=flat-square&logo=Spring%20Boot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/-Hibernate-333333?style=flat-square&logo=Hibernate&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=Git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=Docker&logoColor=2496ED" />
+  <br>
+  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=MySQL&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=PostgreSQL&logoColor=4169E1" />
+  <br>
+  <img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=Windows&logoColor=0078D6" />
+</div>
+
+---
+
+### <samp>💻 Core Competencies</samp>
+
+<ul align="center">
+  <li><b>Backend Development (Java Ecosystem)</b></li>
+  <li><b>Binary Exploitation (PWN)</b></li>
+  <li><b>System & Low-Level Programming</b></li>
+  <li><b>Competitive Programming</b></li>
+</ul>
+
+---
+
+### <samp>📊 GitHub Stats & Activity</samp>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xZKc0de&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xZKc0de&theme=dark" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xZKc0de&show_icons=true&layout=compact&langs_count=6&theme=dark" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xZKc0de&theme=dark" alt="GitHub Trophies">
+</p>
+
+---
+
+<p align="center">
+  <samp>Exploring the depths of code, one byte at a time.</samp>
+</p>
