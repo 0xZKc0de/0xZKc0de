@@ -1,11 +1,5 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/profile-header.svg" alt="Header Image" width="100%"/>
-  <br>
-  > El Haddad Mohamed
-</h1>
-
 <p align="center">
-  <em><samp>Diving deep into the ones and zeros so you don't have to.</samp></em>
+  <h3><em><samp>Diving deep into the ones and zeros so you don't have to.</samp></em></h3>  
 </p>
 
 <p align="center">
