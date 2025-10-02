@@ -52,7 +52,7 @@
 
 <div align="center">
   <b>Backend Development (Java Ecosystem)</b> •
-  <b>Binary Exploitation (PWN)</b> •
+  <b>Cryptography </b> •
   <b>System & Low-Level Programming</b> •
   <b>Competitive Programming</b>
 </div>
