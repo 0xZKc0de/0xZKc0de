@@ -26,25 +26,31 @@
 ### <samp>🛠️ Tech Stack</samp>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=C&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/-C++-333333?style=flat-square&logo=C%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-333333?style=flat-square&logo=Go&logoColor=00ADD8" />
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-333333?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-333333?style=flat-square&logo=Spring%20Boot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/-Hibernate-333333?style=flat-square&logo=Hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-333333?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/-Hibernate-333333?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-YAML-333333?style=for-the-badge&logo=yaml&logoColor=000000" />
   <br>
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=Git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=GitHub&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=Docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-333333?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <br>
-  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=MySQL&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=PostgreSQL&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=003B57" />
   <br>
-  <img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=Windows&logoColor=0078D6" />
+  <img src="https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/-Windows-333333?style=for-the-badge&logo=windows&logoColor=0078D6" />
 </div>
+
 
 ---
 
