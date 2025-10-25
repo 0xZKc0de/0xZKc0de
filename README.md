@@ -58,15 +58,25 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="SQLite logo" />
   </p>
   
-  <h3 align="center">DevOps & Tools</h3>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git logo" />
+<h3 align="center">DevOps & Tools</h3>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="35" alt="GitHub Actions logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker logo" />
+    <img width="10" />
+    <img src="httpsG://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="Kubernetes logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="35" alt="Maven logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="35" alt="GitHub Actions logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="35" alt="Postman logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="35" alt="Swagger logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="35" alt="RabbitMQ logo" />
     <img width="10" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="Kubernetes logo" />
   </p>
