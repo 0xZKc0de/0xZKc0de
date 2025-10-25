@@ -27,7 +27,7 @@
 
 <div align="center">
   
-  <h3 align="center">Languages</h3>
+<h3 align="center">Languages</h3>
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C logo" />
     <img width="10" />
@@ -35,7 +35,7 @@
     <img width="10" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="35" alt="SQL logo" />
     <img width="10" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35" alt="Bash logo" />
     <img width="10" />
