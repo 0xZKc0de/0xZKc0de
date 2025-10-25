@@ -108,7 +108,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xZKc0de&theme=dark" alt="GitHub Streak">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xZKc0de&show_icons=true&layout=compact&langs_count=6&theme=dark" alt="Top Languages">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xZKc0de&theme=dark" alt="GitHub Trophies">
 </div>
 
 ---
