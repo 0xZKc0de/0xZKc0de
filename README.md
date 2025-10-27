@@ -1,6 +1,5 @@
 
-> **"Code documentation isn't optional, it's essential.  
-> Don't let 'bad vibe coding' turn your project into an undecipherable mystery."**
+> **"One valid bit, one modify bit, one reference bit, and five permission bits"**
 
 
 <div align="center">
