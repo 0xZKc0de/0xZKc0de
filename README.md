@@ -1,6 +1,4 @@
-
 > **"One valid bit, one modify bit, one reference bit, and five permission bits"**
-
 
 <div align="center">
   
@@ -8,4 +6,4 @@
 
 </div>
 
-**X : <a href = "x.com/0xHADDAD"> Link </a> **
+**X : [Link](https://x.com/0xHADDAD)**
