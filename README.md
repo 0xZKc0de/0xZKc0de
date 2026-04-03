@@ -23,7 +23,7 @@
   <code>[RSA-2048 KEY ACCEPTED]</code><br>
   <code>[DECRYPTING DATA BLOCK...]</code><br><br>
   <code>X&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <a href="https://x.com/0xHADDAD">Link</a></code><br>
-  <code>Portfolio&nbsp;: <a href="INSERT_YOUR_PORTFOLIO_LINK">Link</a></code>
+  <code>Portfolio&nbsp;: <a href="https://whoami-fawn.vercel.app/">Link</a></code>
 </blockquote>
 
 <br>
