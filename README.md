@@ -19,9 +19,6 @@
 <br><br>
 
 <blockquote>
-  <code><b>user@0xHADDAD:~$</b> decrypt_pointers --key private.pem</code><br>
-  <code>[RSA-2048 KEY ACCEPTED]</code><br>
-  <code>[DECRYPTING DATA BLOCK...]</code><br><br>
   <code>X&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <a href="https://x.com/0xHADDAD">Link</a></code><br>
   <code>Linkedin&nbsp;: <a href="https://www.linkedin.com/in/0xzkc0de/">Link</a></code>
 </blockquote>
